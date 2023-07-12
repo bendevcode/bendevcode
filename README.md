@@ -13,23 +13,20 @@
 **SKILLS**
 - Python (NumPy, pandas, scikit-learn, TensorFlow)
 R (ggplot2, dplyr, caret)
-SQL
+MySQL
 Tableau
 Hadoop
 Neo4j
 Spark
+Dataflow
 
 **RESEARCH INTEREST**
 - Predictive Scheduling & Modeling
 - Natural Language Processing
 - Recommender Systems
 
-**PERSONAL PROJECTS**
-- Assessing Credit worthiness
-- Exploring COVID-19 Data
-
 **CONTACT**
-- Email: bencharlogh@gmail.com
+- Email: goluyori@gmail.com
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oluyori)
 
 
